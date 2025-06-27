@@ -4,7 +4,7 @@ This is a **Frontend Mentor challenge** that focuses on building a responsive **
 
 ## 🌐 Live Demo
 
-[View the live demo]((https://kogarin12.github.io/blog-preview-card-main/))  
+[View the live demo](https://kogarin12.github.io/blog-preview-card-main/) 
 
 ## 🛠️ Built With
 
